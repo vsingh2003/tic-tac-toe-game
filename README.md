@@ -15,19 +15,7 @@ A simple two-player Tic-Tac-Toe game built with Python. The game runs in the ter
 - Python 3  
 - Basic terminal/console interface  
 
-## 📂 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/tic-tac-toe-python.git
-   ```
-2. Navigate into the folder:
-   ```bash
-   cd tic-tac-toe-python
-   ```
-3. Run the script:
-   ```bash
-   python tic_tac_toe.py
-   ```
+
 
 ## 📸 Demo
 ```
